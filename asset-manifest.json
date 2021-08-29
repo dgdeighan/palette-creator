@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/palette-creator/static/css/main.e2183d60.chunk.css",
+    "main.js": "/palette-creator/static/js/main.cf933060.chunk.js",
+    "main.js.map": "/palette-creator/static/js/main.cf933060.chunk.js.map",
+    "runtime-main.js": "/palette-creator/static/js/runtime-main.613b1178.js",
+    "runtime-main.js.map": "/palette-creator/static/js/runtime-main.613b1178.js.map",
+    "static/js/2.764175db.chunk.js": "/palette-creator/static/js/2.764175db.chunk.js",
+    "static/js/2.764175db.chunk.js.map": "/palette-creator/static/js/2.764175db.chunk.js.map",
+    "static/js/3.e3e7f9f9.chunk.js": "/palette-creator/static/js/3.e3e7f9f9.chunk.js",
+    "static/js/3.e3e7f9f9.chunk.js.map": "/palette-creator/static/js/3.e3e7f9f9.chunk.js.map",
+    "index.html": "/palette-creator/index.html",
+    "static/css/main.e2183d60.chunk.css.map": "/palette-creator/static/css/main.e2183d60.chunk.css.map",
+    "static/js/2.764175db.chunk.js.LICENSE.txt": "/palette-creator/static/js/2.764175db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.613b1178.js",
+    "static/js/2.764175db.chunk.js",
+    "static/css/main.e2183d60.chunk.css",
+    "static/js/main.cf933060.chunk.js"
+  ]
+}
